@@ -1,1 +1,3 @@
-# exercisesc-p
+# Team Members:
+Erick Hernandez
+Eduardo Uicab
